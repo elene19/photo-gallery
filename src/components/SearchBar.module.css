@@ -1,0 +1,23 @@
+.header {
+  color: #b200ed;
+  font-size: 4rem;
+}
+
+.searchBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; */
+  gap: 2rem;
+}
+
+input {
+  width: 50rem;
+  height: 4rem;
+  border-radius: 2rem;
+  padding: 2rem;
+}

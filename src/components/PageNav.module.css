@@ -1,0 +1,19 @@
+.nav {
+  font-weight: 500;
+}
+
+.nav ul {
+  padding: 2rem;
+
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  font-size: 2rem;
+  gap: 2rem;
+}
+
+.item {
+  color: #b200ed;
+  list-style: none;
+  text-decoration: none;
+}
